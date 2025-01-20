@@ -28,7 +28,7 @@ def targetPix(l,w):
     for i in range(l,l+15):
         for j in range(w,w+15,1):
             l_o_tups.append((i,j))
-    print(l_o_tups)         
+    # print(l_o_tups)         
     return l_o_tups        
 
 
