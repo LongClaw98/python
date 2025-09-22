@@ -6,11 +6,6 @@ The game tracks the score based on accuracy and speed.
 
 ---
 
-## 🖼 Screenshot
-![Game Screenshot](./screenshot.png)  
-> *This is a static screenshot; the game must be downloaded and run locally to play.*
-
----
 
 ## 💻 Project Files
 - `main.py` → Main game file to run  
@@ -20,8 +15,13 @@ The game tracks the score based on accuracy and speed.
 
 ---
 
+## 🖼 Screenshot
+![Game Screenshot](./aim-prover%20ss.png)  
+> *This is a static screenshot; the game must be downloaded and run locally to play.*
+
+---
 ## ⚡ How to Run Locally
 
 1. **Clone the repository**:  
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/LongClaw98/python/tree/0fac1897003975be878fccedd76380d317f3f2b3/Aim-Prover>
